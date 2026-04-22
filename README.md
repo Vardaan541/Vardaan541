@@ -1,5 +1,3 @@
-Here’s a cleaner, shorter version that keeps it sharp and easy to scan:
-
 ⸻
 
 🚀 About Me
@@ -36,5 +34,3 @@ I focus on building projects that solve real problems and are useful beyond just
 * Improving model performance and reliability
 
 ⸻
-
-If you want it even tighter (like a one-paragraph punchy bio), I can compress it further.
